@@ -51,6 +51,7 @@ header table {
 }
 #navigation {
     width:80%;
+    colour: rgb(241, 229, 214);
 }
 #magnify {
     width:100vw;
@@ -87,9 +88,10 @@ header table {
 }
 #navigation {
     text-align:right;
+    colour: rgb(241, 229, 214);
 }
 #navigation a {
-    color:inherit;
+    color: rgb(241, 229, 214);
     text-decoration:none;
     padding:5px 10px;
     border-bottom:2px solid transparent;
@@ -129,6 +131,7 @@ header table {
 #about table tr td {
     width:20% !important;
     text-align:left;
+    colour: rgb(241, 229, 214);
 }
 .social {
     color: rgb(241, 229, 214);
@@ -211,6 +214,7 @@ header table {
     padding:5px 0px;
     border-bottom:4px solid rgb(241, 229, 214);
     width:8%;
+    colour: rgb(241, 229, 214);
 }
 #contact {
     width:92vw;
