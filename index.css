@@ -66,7 +66,7 @@ header table {
     top:0;
     right:0;
     margin:20px 40px;
-    color:#231f20;
+    color:#f1e5d6;
     transition:0.4s ease-in-out;
 }
 #magnify h1:hover{
@@ -113,10 +113,12 @@ header table {
     justify-content:center;
     text-align:left;
     padding:0px 8%;
+    colour: rgb(241, 229, 214);
 }
 #about h1 {
     font-size:45px;
     word-wrap:break-word;
+    colour: rgb(241, 229, 214);
 }
 #about table {
     width:70%;
@@ -172,11 +174,13 @@ header table {
     width:92vw;
     padding:6vh 4vw;
     font-weight:bold;
+    colour: rgb(241, 229, 214);
 }
 #work h1 {
     padding:5px 0px;
     border-bottom:4px solid rgb(241, 229, 214);
     width:6%;
+    colour: rgb(241, 229, 214);
 }
 #photos {
     width:100%;
@@ -199,6 +203,7 @@ header table {
     width:92vw;
     padding:6vh 4vw;
     font-weight:bold;
+    colour: rgb(241, 229, 214);
 }
 #bio h1 {
     padding:5px 0px;
@@ -208,17 +213,21 @@ header table {
 #contact {
     width:92vw;
     padding:6vh 4vw;
+    colour: rgb(241, 229, 214);
 }
 #contact h1 {
     padding:5px 0px;
     border-bottom:4px solid rgb(241, 229, 214);
     width:10%;
+    colour: rgb(241, 229, 214);
 }
 #contact table {
     width:100%;
+    colour: rgb(241, 229, 214);
 }
 #contact table tr td {
     width:50%;
+    colour: rgb(241, 229, 214);
 }
 #inner_div table{
     width:100%;
@@ -231,6 +240,7 @@ header table {
 }
 #contact form {
     width:100%;
+    colour: rgb(241, 229, 214);
 }
 #contact form input {
     width:96%;
@@ -272,12 +282,14 @@ header table {
     position:relative;
     top:-25px;
     left:30px;
+    colour: rgb(241, 229, 214);
 }
 #footer {
     width:100%;
     padding:10vh 0px;
     text-align:center;
     font-weight:bold;
+    colour: rgb(241, 229, 214);
 }
 #footer a {
     color:rgb(241, 229, 214);
@@ -331,6 +343,7 @@ button:focus {
         padding-top:20vh !important;
         text-align:center;
         padding:0px 4%;
+        colour: rgb(241, 229, 214);
     }
     #about table {
         width:100%;
@@ -366,12 +379,15 @@ button:focus {
     }
     #work h1 {
         width:19%;
+        colour: rgb(241, 229, 214);
     }
     #bio h1 {
         width:25%;
+        colour: rgb(241, 229, 214);
     }
     #contact h1 {
         width:33%;
+        colour: rgb(241, 229, 214);
     }
     header {
         width:96vw;
