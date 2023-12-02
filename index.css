@@ -12,7 +12,7 @@ body {
     width: 100vw;
     height: 100vh;
     position: fixed;
-    background: white;
+    background: #231f20;
     z-index: 999;
     display: flex;
     justify-content: center;
@@ -82,7 +82,7 @@ header table {
 }
 #logo {
     font-size:24px;
-    color:rgb(255, 44, 90);
+    color: #f1e5d6;
 }
 #navigation {
     text-align:right;
@@ -100,7 +100,7 @@ header table {
 }
 #top_part {
     width:100%;
-    border:2vh solid #fff;
+    border:2vh solid #231f20;
 }
 #top_part tr td{
     width:50%;
@@ -127,7 +127,7 @@ header table {
     text-align:left;
 }
 .social {
-    color:rgb(255, 44, 90);
+    color: #f1e5d6;
     font-size:23px;
     padding:12px 17px;
     border-radius:50%;
