@@ -54,7 +54,7 @@ header table {
 #magnify {
     width:100vw;
     height:100vh;
-    background:rgba(0, 0, 0, 0.92);
+    background:rgba(35, 31, 32, 0.92);
     position:fixed;
     z-index:4;
     display:none;
@@ -140,7 +140,7 @@ header table {
     cursor: pointer;
     color:#231f20;
     background:rgb(241, 229, 214);
-    box-shadow:0px 10px 30px rgba(255, 66, 107,0.8);
+    box-shadow:0px 10px 30px rgba(241, 229, 214,0.8);
 }
 .btn_one {
     font-size:18px;
@@ -156,7 +156,7 @@ header table {
     transition:0.4s ease-in-out;
 }
 .btn_one:hover {
-    box-shadow:0px 10px 30px rgba(255, 44, 90, 0.8);
+    box-shadow:0px 10px 30px rgba(241, 229, 214, 0.8);
     cursor:pointer;
     color:#231f20;
     background:rgb(241, 229, 214);
@@ -262,11 +262,11 @@ header table {
 }
 #contact form input:focus {
     outline:none;
-    border-bottom:3px solid rgba(255, 44, 90,1);
+    border-bottom:3px solid rgba(241, 229, 214,1);
 }
 #contact form textarea:focus {
     outline:none;
-    border-bottom:3px solid rgba(255, 44, 90,1);
+    border-bottom:3px solid rgba(241, 229, 214,1);
 }
 #address {
     position:relative;
@@ -294,13 +294,13 @@ button:focus {
     height:5px;
 }
 ::-webkit-scrollbar-track {
-    background: #f1f1f1; 
+    background: #9e9191; 
 }
 ::-webkit-scrollbar-thumb {
-    background: rgb(0, 0, 0); 
+    background: rgb(241, 229, 214); 
 }
 ::-webkit-scrollbar-thumb:hover {
-    background: rgba(0, 0, 0,0.8); 
+    background: rgba(241, 229, 214,0.8); 
 }
 
 @media (max-width: 1000px){
@@ -343,12 +343,12 @@ button:focus {
     padding:6px 30px;
     width:60%;
     margin:4vh auto;
-    box-shadow:0px 10px 20px rgba(255, 44, 90, 0.8);
-    background:rgb(255, 44, 90);
+    box-shadow:0px 10px 20px rgba(241, 229, 214, 0.8);
+    background:rgb(241, 229, 214);
     color:#231f20;
     }
     .btn_one:hover {
-        box-shadow:0px 10px 40px rgba(255, 44, 90, 0.8);
+        box-shadow:0px 10px 40px rgba(241, 229, 214, 0.8);
         cursor:pointer;
     }
     #contact table tr td {
