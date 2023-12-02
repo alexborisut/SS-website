@@ -124,6 +124,7 @@ header table {
 #about table {
     width:70%;
     margin-top:4vh;
+    colour: rgb(241, 229, 214);
 }
 #about table tr td {
     width:20% !important;
@@ -349,9 +350,11 @@ button:focus {
     #about table {
         width:100%;
         margin-top:6vh;
+        colour: rgb(241, 229, 214);
     }
     #about table tr td {
         text-align:center;
+        colour: rgb(241, 229, 214);
     }
     .btn_one {
     padding:6px 30px;
@@ -377,6 +380,7 @@ button:focus {
     }
     #contact form textarea {
         width:90%;
+        colour: rgb(241, 229, 214);
     }
     #work h1 {
         width:19%;
@@ -403,6 +407,6 @@ button:focus {
         padding:15px 0px;
     }
     #navigation a {
-        color:#000;
+        color:#f1e5d6;
     }
 }
